@@ -8,7 +8,7 @@ public class Main {
 
 		Metod metod = new Metod();
 
-		System.out.print(metod.convertTemper(20, "K", "C"));
+		System.out.print(metod.convertTemper(20, "C", "C"));
 
 	}
 }
